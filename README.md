@@ -10,3 +10,7 @@ This repository 📁 consists of day wise solutions 🛠 for Leetcode study 👨
    * [Java](./Data%20Structure%20I/java)
    * [CPP](./Data%20Structure%20I/cpp)
    * [Python](./Data%20Structure%20I/python)
+   
+## See on Leetcode
+   * [Binary Search I](https://leetcode.com/study-plan/binary-search)
+   * [Data Stucture I](https://leetcode.com/study-plan/data-structure)
