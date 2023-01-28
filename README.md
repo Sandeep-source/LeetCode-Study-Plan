@@ -1,5 +1,5 @@
 # LeetCode-Study-Plan
-This repository 📁 consists of day wise solutions 🛠 for Leetcode study 👨‍🎓 plans 🎯 in Java ☕, CPP ©🅿🅿, Python 🐍 And tracks my learning practice on LeetCode. 
+This repository 📁 consists of day wise solutions 🛠 for Leetcode study 👨‍🎓 plans 🎯 implemented in Java ☕, CPP ©🅿🅿, Python 🐍. It also tracks my personal learning progress 📈 and serves as a valuable 💲 resource for others looking 👀 to improve their skills 🎯 on LeetCode.
 
 ## Study Plans
 - [Binary Search I](./Binary%20Search%20I)
